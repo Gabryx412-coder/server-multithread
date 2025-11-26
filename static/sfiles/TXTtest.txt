@@ -1,0 +1,5 @@
+Lorem Ipsum è semplicemente un testo fittizio utilizzato nell’industria della stampa e della composizione tipografica.
+Lorem Ipsum è il testo fittizio standard del settore sin dal XVI secolo,
+quando un tipografo sconosciuto prese una cassetta di caratteri e li mescolò per creare un libro di campioni tipografici.
+È sopravvissuto non solo a cinque secoli, ma anche al passaggio alla composizione elettronica,
+rimanendo sostanzialmente invariato.
