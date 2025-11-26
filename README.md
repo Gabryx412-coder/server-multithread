@@ -72,6 +72,10 @@ Per stabilire una connessione tra client e server, compilare prima server.cpp in
 
 ### ***Screenshot***
 
+![Screenshot (111)](https://user-images.githubusercontent.com/59080732/174461096-5e11c47d-d2b6-4592-8a13-68f032890f1c.png)
+
+
+![Screenshot (113)](https://user-images.githubusercontent.com/59080732/174461097-f3aa0f9d-eeac-4528-96a6-a34fad855b71.png)
 &#x20;
 
 ---
